@@ -4,10 +4,12 @@ A comprehensive command-line utility for managing system groups on Linux/Unix sy
 ## Project Screenshots
 
 ### Feature 1
-<img src="assets/screenshot1.png" width="800" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/eff77b9e-c2dc-4eed-92c8-07663e337412" />
+
 
 ### Feature 2
-<img src="assets/screenshot2.png" width="800" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6f5fb4b7-95a5-4306-92b9-6a9d0f496e02" />
+
 ## Features
 
 - **Create Groups**: Add new user groups to your system
