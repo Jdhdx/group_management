@@ -4,7 +4,8 @@ A comprehensive command-line utility for managing system groups on Linux/Unix sy
 ## Project Screenshots
 
 ### Feature 1
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/eff77b9e-c2dc-4eed-92c8-07663e337412" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c68473dd-e8e7-4340-8834-84f6a8bbf30c" />
+
 
 
 ### Feature 2
