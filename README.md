@@ -1,9 +1,13 @@
 # Group Management Tool
-<img width="442" height="133" alt="image" src="https://github.com/user-attachments/assets/bd574af3-b8e5-4a17-b045-685ee84cd3b2" />
-<img width="531" height="138" alt="image" src="https://github.com/user-attachments/assets/5d97979a-dd02-48c5-8553-9c8ee91d3a2c" />
-
 A comprehensive command-line utility for managing system groups on Linux/Unix systems. This tool provides an intuitive menu-driven interface for creating, modifying, and managing user groups efficiently.
 
+## Project Screenshots
+
+### Feature 1
+<img src="assets/screenshot1.png" width="800" />
+
+### Feature 2
+<img src="assets/screenshot2.png" width="800" />
 ## Features
 
 - **Create Groups**: Add new user groups to your system
